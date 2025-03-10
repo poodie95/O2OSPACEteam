@@ -1,432 +1,388 @@
 # O2OSPACEteam
-<div class="w-[1748px] h-[13259px] relative overflow-hidden bg-white">
-  <div class="w-[1523px] h-[578px]">
-    <p
-      class="w-[662px] h-[93px] absolute left-28 top-[7904px] text-[40px] font-bold text-left text-[#f00]"
-    >
-      AI 대신, 인간적인 요소에 집중한 성공 사례
-    </p>
-    <p
-      class="w-[1225.2px] h-[113.17px] absolute left-[99px] top-[7997px] text-6xl font-bold text-left text-black"
-    >
-      스톱모션 애니메이션 &#x3C;윌레스와 그로밋>
-    </p>
-    <p class="w-[1510px] h-[350px] absolute left-28 top-[8132px] text-[40px] text-left">
-      <span class="w-[1510px] h-[350px] text-[40px] text-left text-black"
-        >작년 12월에 개봉한 &#x3C;월레스와 그로밋 : 복수의 날개> 는 내용 면에서 명료하게 인공지능의
-        오남용 지적합니다. 16년만에 새로운 시즌이 나와 반가운 마음에 시청하는 분들도 있지만,
-        영화보다 더 화제를 모은 건 영화의 제작 비하인드 영상입니다. 캐릭터가 움직이는 프레임마다
-        점토를 새롭게 제작하는데, 영화를 하루에 단 6초밖에 만들지 못한다고 합니다. </span
-      ><span class="w-[1510px] h-[350px] text-[40px] font-semibold text-left text-black"
-        >이러한 후기가</span
-      ><span class="w-[1510px] h-[350px] text-[40px] font-semibold text-left text-[#ff3b30]">
-        전 세계적으로 바이럴되며, </span
-      ><br /><span class="w-[1510px] h-[350px] text-[40px] font-semibold text-left text-[#ff3b30]"
-        >‘요즘 시대에 귀한 콘텐츠’</span
-      ><span class="w-[1510px] h-[350px] text-[40px] font-semibold text-left text-black">
-        라는 평가</span
-      ><span class="w-[1510px] h-[350px] text-[40px] text-left text-black">를 받았습니다. </span>
-    </p>
-  </div>
-  <p class="absolute left-[-8966px] top-[2177px] text-[100px] text-left text-black">
-    <span class="text-[100px] text-left text-black">어떤 프로젝트였는지</span><br /><span
-      class="text-[100px] text-left text-black"
-      >프로젝트 내용 무엇인지</span
-    ><br /><span class="text-[100px] text-left text-black">어떤 부분에서 높은 평가를 받았는지</span>
-  </p>
-  <p class="absolute left-[-8966px] top-[1871px] text-[100px] text-left text-black">
-     IF design award UX 분야
-  </p>
-  <div class="w-[1250px] h-[1086px]">
-    <img
-      src="rectangle-2.png"
-      class="w-[1249px] h-[600px] absolute left-[249.5px] top-[576.5px] object-none"
-    />
-    <p class="w-[389px] h-[23px] absolute left-[670px] top-[1128px] text-xl text-left text-black">
-      *본 이미지는 DashAI를 활용해 만든 이미지입니다.
-    </p>
-    <p
-      class="w-[1250px] h-56 absolute left-[249px] top-[253px] text-[90px] font-bold text-center text-black"
-    >
-      <span class="w-[1250px] h-56 text-[90px] font-bold text-center text-black"
-        >두 지능의 만남 : </span
-      ><br /><span class="w-[1250px] h-56 text-[90px] font-bold text-center text-black"
-        >인간과 AI 공존의 시대</span
-      >
-    </p>
-    <div class="w-[553px] h-[93px] absolute left-[597px] top-[91px]">
-      <p class="w-[553px] h-[93px] absolute left-0 top-0 text-6xl text-left text-[#ff3b30]">
-        AI CATCHER
-      </p>
-    </div>
-  </div>
-  <p class="w-[1281px] h-[1673px] absolute left-[250px] top-[1598px] text-left">
-    <span class="w-[1281px] h-[1673px] text-6xl font-bold text-left text-black"
-      >“AI는 인간을 대체해야만 할까? </span
-    ><br /><span class="w-[1281px] h-[1673px] text-6xl font-bold text-left text-black"
-      >아니면 인간과 공존할 순 없을까?”</span
-    ><br /><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
-      >AI는 단순한 기술이 아닌, 비즈니스와 마케팅의 중심이 되었습니다. </span
-    ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
-      >AI 챗봇이 고객을 응대하고, 빅데이터가 소비자의 행동을 예측하며, </span
-    ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
-      >자동화된 광고 시스템이 타겟팅을 정교하게 수행하죠. </span
-    ><br /><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
-      >어떤 기업은 AI를 활용하여 혁신적인 마케팅 성공을 거두었고, </span
-    ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
-      >AI 대신 인간적인 감성을 자극하여 브랜드들이 </span
-    ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
-      >소비자의 마음을 사로잡기도 했습니다.</span
-    ><br /><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
-      >이번 뉴스레터에서는 </span
-    ><span class="w-[1281px] h-[1673px] text-[45px] font-bold text-left text-[#ff3b30]"
-      >총 3가지</span
-    ><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">를 다룹니다. </span
-    ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">① </span
-    ><span class="w-[1281px] h-[1673px] text-[45px] font-semibold text-left text-black">AI를 </span
-    ><span class="w-[1281px] h-[1673px] text-[45px] font-semibold text-left text-[#f00]"
-      >전략적으로 활용</span
-    ><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">한 성공 사례 </span
-    ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">② </span
-    ><span class="w-[1281px] h-[1673px] text-[45px] font-semibold text-left text-black"
-      >AI 없이, </span
-    ><span class="w-[1281px] h-[1673px] text-[45px] font-semibold text-left text-[#f00]"
-      >인간적인 요소에 집중</span
-    ><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">한 성공 사례</span
-    ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">③ </span
-    ><span class="w-[1281px] h-[1673px] text-[45px] font-semibold text-left text-black"
-      >AI와 휴먼 터치를 </span
-    ><span class="w-[1281px] h-[1673px] text-[45px] font-semibold text-left text-[#f00]"
-      >조화롭게 접목</span
-    ><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">한 성공 사례 </span
-    ><br /><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
-      >과연 AI와 인간은 어떻게 공존하며, </span
-    ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
-      >소비자들에게 더 큰 가치를 제공할 수 있을지? 함께 살펴보겠습니다. </span
-    ><br />
-  </p>
-  <div class="w-[1011px] h-[281px]">
-    <p class="absolute left-[233px] top-[1323px] text-[40px] text-left text-black">
-      <span class="text-[40px] text-left text-black">생성형 AI를 활용한 마케팅을 기획 중인 분</span
-      ><br /><span class="text-[40px] text-left text-black"
-        >우리 브랜드는 어떤 방식으로 AI를 활용해야하는 지 고민하는 분 </span
-      ><br /><span class="text-[40px] text-left text-black"
-        >AI 활용에 대한 실무 사례가 궁금했던 분</span
-      >
-    </p>
-    <p
-      class="w-[529px] h-12 absolute left-[250px] top-[1237px] text-[50px] font-bold text-left text-[#ff3b30]"
-    >
-      ▶ 해당 콘텐츠가 필수인 분
-    </p>
-  </div>
-  <p
-    class="w-[302px] h-[54px] absolute left-[95px] top-[13012px] text-[50px] font-semibold text-left text-black"
-  >
-    O2O스페이스팀
-  </p>
+<p class="w-[1281px] h-[1673px] text-left">
+  <span class="w-[1281px] h-[1673px] text-6xl font-bold text-left text-black"
+    >“AI는 인간을 대체해야만 할까? </span
+  ><br /><span class="w-[1281px] h-[1673px] text-6xl font-bold text-left text-black"
+    >아니면 인간과 공존할 순 없을까?”</span
+  ><br /><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
+    >AI는 단순한 기술이 아닌, 비즈니스와 마케팅의 중심이 되었습니다. </span
+  ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
+    >AI 챗봇이 고객을 응대하고, 빅데이터가 소비자의 행동을 예측하며, </span
+  ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
+    >자동화된 광고 시스템이 타겟팅을 정교하게 수행하죠. </span
+  ><br /><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
+    >어떤 기업은 AI를 활용하여 혁신적인 마케팅 성공을 거두었고, </span
+  ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
+    >AI 대신 인간적인 감성을 자극하여 브랜드들이 </span
+  ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
+    >소비자의 마음을 사로잡기도 했습니다.</span
+  ><br /><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
+    >이번 뉴스레터에서는 </span
+  ><span class="w-[1281px] h-[1673px] text-[45px] font-bold text-left text-[#ff3b30]">총 3가지</span
+  ><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">를 다룹니다. </span
+  ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">① </span
+  ><span class="w-[1281px] h-[1673px] text-[45px] font-semibold text-left text-black">AI를 </span
+  ><span class="w-[1281px] h-[1673px] text-[45px] font-semibold text-left text-[#f00]"
+    >전략적으로 활용</span
+  ><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">한 성공 사례 </span
+  ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">② </span
+  ><span class="w-[1281px] h-[1673px] text-[45px] font-semibold text-left text-black"
+    >AI 없이, </span
+  ><span class="w-[1281px] h-[1673px] text-[45px] font-semibold text-left text-[#f00]"
+    >인간적인 요소에 집중</span
+  ><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">한 성공 사례</span
+  ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">③ </span
+  ><span class="w-[1281px] h-[1673px] text-[45px] font-semibold text-left text-black"
+    >AI와 휴먼 터치를 </span
+  ><span class="w-[1281px] h-[1673px] text-[45px] font-semibold text-left text-[#f00]"
+    >조화롭게 접목</span
+  ><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black">한 성공 사례 </span
+  ><br /><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
+    >과연 AI와 인간은 어떻게 공존하며, </span
+  ><br /><span class="w-[1281px] h-[1673px] text-[45px] text-left text-black"
+    >소비자들에게 더 큰 가치를 제공할 수 있을지? 함께 살펴보겠습니다. </span
+  ><br />
+</p>
+<p class="w-[302px] h-[54px] text-[50px] font-semibold text-left text-black">O2O스페이스팀</p>
+<svg
+  width="1502"
+  height="13"
+  viewBox="0 0 1502 13"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  preserveAspectRatio="none"
+>
+  <path d="M0 1L1502 12" stroke="black" stroke-width="2"></path></svg
+><img src="hsad-ci_standard-1.png" class="w-[236.53px] h-[71px] object-cover" />
+<p class="w-[825px] h-[63px] text-[25px] font-light text-left text-black">
+  <span class="w-[825px] h-[63px] text-[25px] font-light text-left text-black"
+    >고객 경험 데이터 기반하여 고객이 브랜드와의 모든 접점에서 밀접한 경험을 할 수 있도록 </span
+  ><br /><span class="w-[825px] h-[63px] text-[25px] font-light text-left text-black"
+    >데이터, 기술, 창의성을 결합하며 차별화된 경험 공간 기획 및 구축을 진행합니다.
+  </span>
+</p>
+<div class="w-[1250px] h-[1086px]">
   <img
-    src="hsad-ci_standard-1.png"
-    class="w-[236.53px] h-[71px] absolute left-[1343px] top-[13036px] object-cover"
+    src="rectangle-2.png"
+    class="w-[1249px] h-[600px] absolute left-[249.5px] top-[576.5px] object-none"
   />
-  <p
-    class="w-[825px] h-[63px] absolute left-[95px] top-[13084px] text-[25px] font-light text-left text-black"
-  >
-    <span class="w-[825px] h-[63px] text-[25px] font-light text-left text-black"
-      >고객 경험 데이터 기반하여 고객이 브랜드와의 모든 접점에서 밀접한 경험을 할 수 있도록 </span
-    ><br /><span class="w-[825px] h-[63px] text-[25px] font-light text-left text-black"
-      >데이터, 기술, 창의성을 결합하며 차별화된 경험 공간 기획 및 구축을 진행합니다.
-    </span>
-  </p>
-  <svg
-    width="1502"
-    height="13"
-    viewBox="0 0 1502 13"
-    fill="none"
-    xmlns="http://www.w3.org/2000/svg"
-    class="absolute left-[85.5px] top-[12972.5px]"
-    preserveAspectRatio="none"
-  >
-    <path d="M0 1L1502 12" stroke="black" stroke-width="2"></path>
-  </svg>
-  <p
-    class="w-[299px] h-[35px] absolute left-[725px] top-[7785px] text-[28px] text-left text-[#8e8e93]"
-  >
-    *클릭 시 영상이 재생됩니다.
+  <p class="w-[389px] h-[23px] absolute left-[670px] top-[1128px] text-xl text-left text-black">
+    *본 이미지는 DashAI를 활용해 만든 이미지입니다.
   </p>
   <p
-    class="w-[297px] h-[37px] absolute left-[726px] top-[9452px] text-[28px] text-left text-[#8e8e93]"
+    class="w-[1250px] h-56 absolute left-[249px] top-[253px] text-[90px] font-bold text-center text-black"
   >
-    *클릭 시 영상이 재생됩니다.
+    <span class="w-[1250px] h-56 text-[90px] font-bold text-center text-black"
+      >두 지능의 만남 : </span
+    ><br /><span class="w-[1250px] h-56 text-[90px] font-bold text-center text-black"
+      >인간과 AI 공존의 시대</span
+    >
   </p>
-  <p class="w-[293px] h-9 absolute left-[728px] top-[11123px] text-[28px] text-left text-[#8e8e93]">
-    *클릭 시 영상이 재생됩니다.
+  <div class="w-[553px] h-[93px] absolute left-[597px] top-[91px]">
+    <p class="w-[553px] h-[93px] absolute left-0 top-0 text-6xl text-left text-[#ff3b30]">
+      AI CATCHER
+    </p>
+  </div>
+</div>
+<div class="w-[1011px] h-[281px]">
+  <p class="absolute left-[233px] top-[1323px] text-[40px] text-left text-black">
+    <span class="text-[40px] text-left text-black">생성형 AI를 활용한 마케팅을 기획 중인 분</span
+    ><br /><span class="text-[40px] text-left text-black"
+      >우리 브랜드는 어떤 방식으로 AI를 활용해야하는 지 고민하는 분 </span
+    ><br /><span class="text-[40px] text-left text-black"
+      >AI 활용에 대한 실무 사례가 궁금했던 분</span
+    >
   </p>
   <p
-    class="w-[298px] h-[34px] absolute left-[725px] top-[12839px] text-[28px] text-left text-[#8e8e93]"
+    class="w-[529px] h-12 absolute left-[250px] top-[1237px] text-[50px] font-bold text-left text-[#ff3b30]"
   >
-    *클릭 시 영상이 재생됩니다.
+    ▶ 해당 콘텐츠가 필수인 분
   </p>
-  <div class="w-[1512px] h-[809px] absolute left-[114px] top-[3900px]">
-    <div class="w-[1688px] h-[866px] absolute left-[-89px] top-[29px]"></div>
-  </div>
-  <div class="w-[1519px] h-[570px]">
-    <p
-      class="w-[1146px] h-[106px] absolute left-[114px] top-[3394px] text-6xl font-bold text-left text-black"
-    >
-      Gatorade ‘커스텀 텀블러 디자인’
-    </p>
-    <p class="w-[1519px] h-[349px] absolute left-[114px] top-[3522px] text-[40px] text-left">
-      <span class="w-[1519px] h-[349px] text-[40px] text-left text-black"
-        >게토레이는 고객이 독특한 텀블러 디자인을 제작할 수 있는 디지털 스토어를
-        구축하였습니다.</span
-      ><br /><span class="w-[1519px] h-[349px] text-[40px] text-left text-black"
-        >Adobe의 ‘Firefly’ 의 API 연동을 통해 Gatorade 웹 사이트에 통합하고 확장한 케이스로,
-        소비자의</span
-      ><br /><span class="w-[1519px] h-[349px] text-[40px] text-left text-black"
-        >관심을 끌며, 10일만의 약 20만개가 넘는 텀블러 디자인이 제작됐습니다. </span
-      ><span class="w-[1519px] h-[349px] text-[40px] font-semibold text-left text-[#ff3b30]"
-        >크리에이티브 표준을 </span
-      ><br /><span class="w-[1519px] h-[349px] text-[40px] font-semibold text-left text-[#ff3b30]"
-        >유지하면서 고품질 결과덕분에 각 소비자에게 개인화된 경험 제공</span
-      ><span class="w-[1519px] h-[349px] text-[40px] text-left text-black"
-        >으로 브랜드를 한층 강화시킬 수 있는 역할을 하였습니다.
-      </span>
-    </p>
-    <p
-      class="w-[553px] h-[93px] absolute left-[114px] top-[3301px] text-[40px] font-bold text-left text-[#f00]"
-    >
-      AI를 전략적으로 활용한 성공 사례
-    </p>
-  </div>
-  <div class="w-[300px] h-[34px]">
-    <p
-      class="w-[300px] h-[34px] absolute left-[724px] top-[6165px] text-[28px] text-left text-[#8e8e93]"
-    >
-      *클릭 시 영상이 재생됩니다.
-    </p>
-  </div>
-  <div class="w-[1898px] h-[501px]">
-    <p
-      class="w-[553px] h-[93px] absolute left-[114px] top-[4796px] text-[40px] font-bold text-left text-[#f00]"
-    >
-      AI를 전략적으로 활용한 성공 사례
-    </p>
-    <p class="w-[568px] h-10 absolute left-[1444px] top-[4934px] text-3xl text-left text-[#fff8f8]">
-      홈페이지에서 직접 제작한 ‘HSAD’ 텀블러 디자인
-    </p>
-    <p
-      class="w-[1068px] h-[106px] absolute left-[117px] top-[4895px] text-6xl font-bold text-left text-black"
-    >
-      맥도날드 챗 GPT 활용 옥외광고
-    </p>
-    <p class="w-[1510px] h-[274px] absolute left-[114px] top-[5023px] text-[40px] text-left">
-      <span class="w-[1510px] h-[274px] text-[40px] text-left text-black">맥도날드는</span
-      ><span class="w-[1510px] h-[274px] text-[40px] font-semibold text-left text-[#30b0c7]"> </span
-      ><span class="w-[1510px] h-[274px] text-[40px] font-semibold text-left text-[#ff3b30]"
-        >‘세상에서 가장 많은 사람들에게 사랑을 받은 버거는 빅맥 (Big Mac)’</span
-      ><span class="w-[1510px] h-[274px] text-[40px] font-semibold text-left text-black"> </span
-      ><span class="w-[1510px] h-[274px] text-[40px] text-left text-black">이라고 대답한 </span
-      ><br /><span class="w-[1510px] h-[274px] text-[40px] text-left text-black"
-        >ChatGPT의 대답을 있는 그대로 활용해 빅맥의 이미지를 떠올리는 비주얼로 옥외광고를
-        제작했습니다.답변을 통해, 1등 브랜드의 명성을 탁월하게 증명해 보였죠. 또한 AI와 맥도날드의
-        슬로건 </span
-      ><br /><span class="w-[1510px] h-[274px] text-[40px] font-semibold text-left text-[#ff3b30]"
-        >“I’m lovin’ it” 을 합쳐 만든 A. I’m lovin it</span
-      ><span class="w-[1510px] h-[274px] text-[40px] text-left text-[#30b0c7]"> </span
-      ><span class="w-[1510px] h-[274px] text-[40px] text-left text-black"
-        >이라는 재치 넘치는 카피도 한 몫 했습니다.
-      </span>
-    </p>
-  </div>
-  <div class="w-[1509.61px] h-[582.37px]">
-    <p
-      class="w-[662px] h-[93px] absolute left-[120px] top-[6307px] text-[40px] font-bold text-left text-[#f00]"
-    >
-      AI 대신, 인간적인 요소에 집중한 성공 사례
-    </p>
-    <p
-      class="w-[1123px] h-[99px] absolute left-[120px] top-[6396px] text-6xl font-bold text-left text-black"
-    >
-      도브의 '더 코드(The Code)' 캠페인
-    </p>
-    <p class="w-[1509.61px] h-[348.37px] absolute left-[120px] top-[6541px] text-[40px] text-left">
-      <span class="w-[1509.61px] h-[348.37px] text-[40px] text-left text-black">도브 (Dove)는</span
-      ><span class="w-[1509.61px] h-[348.37px] text-[40px] font-semibold text-left text-black">
-      </span
-      ><span class="w-[1509.61px] h-[348.37px] text-[40px] font-semibold text-left text-[#ff3b30]"
-        >AI가 ‘아름다움’을 묘사하는 비현실적인 방식에 맞서기 위해 광고에서 실제로 인간을 묘사할 때
-        AI 기술을 절대 사용하지 않겠다</span
-      ><span class="w-[1509.61px] h-[348.37px] text-[40px] text-left text-black"
-        >고 약속했습니다. AI 에게 ‘세계에서 가장 아름다운 여성’ </span
-      ><br /><span class="w-[1509.61px] h-[348.37px] text-[40px] text-left text-black"
-        >이미지 생성을 요청하자, 날씬한 금발의 백인 여성 이미지를 만들어낸 건데, </span
-      ><span class="w-[1509.61px] h-[348.37px] text-[40px] font-semibold text-left text-[#30b0c7]">
-      </span
-      ><span class="w-[1509.61px] h-[348.37px] text-[40px] font-semibold text-left text-[#ff3b30]"
-        >‘아름다움’ 에 대한 편협하고 좁은 고정 관념을 반영한 것</span
-      ><span class="w-[1509.61px] h-[348.37px] text-[40px] font-semibold text-left text-black">
-        이라며,</span
-      ><span class="w-[1509.61px] h-[348.37px] text-[40px] text-left text-black">
-        광고는 ‘도브는 여성의 이미지를 생성하거나 왜곡하는 AI를 </span
-      ><br /><span class="w-[1509.61px] h-[348.37px] text-[40px] text-left text-black"
-        >절대로 사용하지 않겠습니다’ 라는 메시지를 전달하는 ‘리얼 뷰티’ 광고 캠페인을 전개하고
-        있습니다.
-      </span>
-    </p>
-  </div>
-  <svg
-    width="1520"
-    height="817"
-    viewBox="0 0 1520 817"
-    fill="none"
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    class="w-[1512px] h-[809px]"
-    style="filter: drop-shadow(0px 4px 4px rgba(0,0,0,0.25));"
-    preserveAspectRatio="none"
-  >
-    <g filter="url(#filter0_d_246_137)">
-      <rect x="4.5" y="0.5" width="1511" height="808" stroke="black"></rect>
-      <rect x="4" width="1512" height="809" fill="url(#pattern0_246_137)"></rect>
-    </g>
-    <defs>
-      <filter
-        id="filter0_d_246_137"
-        x="0"
-        y="0"
-        width="1520"
-        height="817"
-        filterUnits="userSpaceOnUse"
-        color-interpolation-filters="sRGB"
-      >
-        <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
-        <feColorMatrix
-          in="SourceAlpha"
-          type="matrix"
-          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-          result="hardAlpha"
-        ></feColorMatrix>
-        <feOffset dy="4"></feOffset>
-        <feGaussianBlur stdDeviation="2"></feGaussianBlur>
-        <feComposite in2="hardAlpha" operator="out"></feComposite>
-        <feColorMatrix
-          type="matrix"
-          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
-        ></feColorMatrix>
-        <feBlend
-          mode="normal"
-          in2="BackgroundImageFix"
-          result="effect1_dropShadow_246_137"
-        ></feBlend>
-        <feBlend
-          mode="normal"
-          in="SourceGraphic"
-          in2="effect1_dropShadow_246_137"
-          result="shape"
-        ></feBlend>
-      </filter>
-      <pattern id="pattern0_246_137" patternContentUnits="objectBoundingBox" width="1" height="1">
-        <use
-          xlink:href="#image0_246_137"
-          transform="matrix(0.00078125 0 0 0.00146014 0 -0.0256489)"
-        ></use>
-      </pattern>
-      <image
-        id="image0_246_137"
-        width="1280"
-        height="720"
-        preserveAspectRatio="none"
-        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAYAAADPfd1WAAAAAXNSR0IArs4c6QAAIABJREFUeF7t2oGt7DgQA0Ep/6DtMASw6xL4x+JA8BLv3nu/8/C/73v6zz9M7p8mQOC1wL336f+C9+8pv3+cQFrA+5euX3gCaQHvX7p+4QmkBa4BMN2/8ATSAj4A0/ULTyAt4P1L1y88gbSA9y9dv/AE0gIGwHT9whNoC/gAbPcvPYGygPev3L7sBNoC3r92/9ITKAsYAMvty04gLuADMH4A4hMIC3j/wuWLTiAu4P2LH4D4BMICBsBw+aITqAv4AKxfgPwEugLev273khOoC3j/6hcgP4GugAGw273kBPICPgDzJwCAQFbA+5etXnACeQHvX/4EABDIChgAs9ULToCAD0A3QIBAVcD7V21ebgIEvH9ugACBqoABsNq83AQIHB+AjoAAgaqA96/avNwECHj/3AABAlUBA2C1ebkJEDAAugECBLICfgBnqxecQF7A+5c/AQAEsgIGwGz1ghMg4APQDRAgUBXw/lWbl5sAAe+fGyBAoCpgAKw2LzcBAv4C0A0QIJAV8AM4W73gBPIC3r/8CQAgkBUwAGarF5wAAR+AboAAgaqA96/avNwECHj/3AABAlUBA2C1ebkJEPAXgG6AAIGsgB/A2eoFJ5AX8P7lTwAAgayAATBbveAECPgAdAMECFQFvH/V5uUmQMD75wYIEKgKGACrzctNgIC/AHQDBAhkBfwAzlYvOIG8gPcvfwIACGQFDIDZ6gUnQMAHoBsgQKAq4P2rNi83AQLePzdAgEBVwABYbV5uAgT8BaAbIEAgK+AHcLZ6wQnkBbx/+RMAQCArYADMVi84AQI+AN0AAQJVAe9ftXm5CRDw/rkBAgSqAgbAavNyEyDgLwDdAAECWQE/gLPVC04gL+D9y58AAAJZAQNgtnrBCRDwAegGCBCoCnj/qs3LTYCA988NECBQFTAAVpuXmwABfwHoBggQyAr4AZytXnACeQHvX/4EABDIChgAs9ULToCAD0A3QIBAVcD7V21ebgIEvH9ugACBqoABsNq83AQI+AtAN0CAQFbAD+Bs9YITyAt4//InAIBAVsAAmK1ecAIEfAC6AQIEqgLev2rzchMg4P1zAwQIVAUMgNXm5SZAwF8AugECBLICfgBnqxecQF7A+5c/AQAEsgIGwGz1ghMg4APQDRAgUBXw/lWbl5sAAe+fGyBAoCpgAKw2LzcBAv4C0A0QIJAV8AM4W73gBPIC3r/8CQAgkBUwAGarF5wAAR+AboAAgaqA96/avNwECHj/3AABAlUBA2C1ebkJEPAXgG6AAIGsgB/A2eoFJ5AX8P7lTwAAgayAATBbveAECPgAdAMECFQFvH/V5uUmQMD75wYIEKgKGACrzctNgIC/AHQDBAhkBfwAzlYvOIG8gPcvfwIACGQFDIDZ6gUnQMAHoBsgQKAq4P2rNi83AQLePzdAgEBV4J5zvmp4uQkQIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNeswvJ3AAAgAElEQVQvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAMeP/boAAAgNSURBVAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gI/WPRQPT3JwFcAAAAASUVORK5CYII="
-      ></image>
-    </defs>
-  </svg>
+</div>
+<div class="w-[1512px] h-[809px] relative">
+  <div class="w-[1688px] h-[866px] absolute left-[-89px] top-[29px]"></div>
+</div>
+<div
+  class="flex flex-col justify-start items-start w-[1512px] relative gap-2.5 border border-black"
+  style="filter: drop-shadow(0px 4px 4px rgba(0,0,0,0.25));"
+>
+  <div class="self-stretch flex-grow-0 flex-shrink-0 h-[883px]"></div>
+</div>
+<div
+  class="w-[1512px] h-[919px] relative border border-black"
+  style="filter: drop-shadow(0px 4px 4px rgba(0,0,0,0.25));"
+>
   <div
-    class="flex flex-col justify-start items-start w-[1512px] absolute left-[99px] top-[8547px] gap-2.5 border border-black"
-    style="filter: drop-shadow(0px 4px 4px rgba(0,0,0,0.25));"
-  >
-    <div class="self-stretch flex-grow-0 flex-shrink-0 h-[883px]"></div>
-  </div>
-  <div class="w-[1550.67px] h-[516.1px]">
-    <p
-      class="w-[740px] h-[93px] absolute left-[99px] top-[9601px] text-[40px] font-bold text-left text-[#ff3b30]"
-    >
-      AI와 휴먼 터치를 조화롭게 접목한 성공 사례
-    </p>
-    <p
-      class="w-[1166.32px] h-[119.6px] absolute left-[99px] top-[9694px] text-6xl font-bold text-left text-black"
-    >
-      빙그레 ‘처음 입는 광복’ 캠페인
-    </p>
-    <p class="w-[1550.67px] h-[281.1px] absolute left-[99px] top-[9836px] text-[40px] text-left">
-      <span class="w-[1550.67px] h-[281.1px] text-[40px] text-left text-black"
-        >작년 8월, 빙그레는 ‘처음 입는 광복’ 이라는 캠페인 영상을 공개했습니다.. </span
-      ><br /><span class="w-[1550.67px] h-[281.1px] text-[40px] text-left text-black"
-        >죄수복을 입고 옥중에서 순국한 독립운동가의 마지막 사진을 AI로 복원하고 새롭게 지은 한복을
-        입혀</span
-      ><br /><span class="w-[1550.67px] h-[281.1px] text-[40px] text-left text-black"
-        >영웅의 모습으로 바꾼 캠페인입니다. 공개 보름 만의 350만을 넘겼고, </span
-      ><span class="w-[1550.67px] h-[281.1px] text-[40px] font-semibold text-left text-[#ff3b30]"
-        >가장 발전된 현대의 기술로</span
-      ><br /><span
-        class="w-[1550.67px] h-[281.1px] text-[40px] font-semibold text-left text-[#ff3b30]"
-        >과거와 현재를 잇고 새로운 의미와 감상을 불러일으킨 캠페인</span
-      ><span class="w-[1550.67px] h-[281.1px] text-[40px] text-left text-black">으로</span
-      ><span class="w-[1550.67px] h-[281.1px] text-[40px] font-bold text-left text-black"> </span
-      ><span class="w-[1550.67px] h-[281.1px] text-[40px] text-left text-black"
-        >칭송 받았습니다.
-      </span>
-    </p>
-  </div>
-  <div
-    class="w-[1512px] h-[919px] absolute left-24 top-[10182px] border border-black"
-    style="filter: drop-shadow(0px 4px 4px rgba(0,0,0,0.25));"
-  >
-    <div
-      class="w-[1512px] h-[919px] absolute left-[-1px] top-[-1px]"
-      style="box-shadow: 0px 4px 4px 0 rgba(0,0,0,0.25);"
-    ></div>
-  </div>
-  <div class="w-[1550.67px] h-[570.77px]">
-    <p
-      class="w-[740px] h-[93px] absolute left-[99px] top-[11262px] text-[40px] font-bold text-left text-[#ff3b30]"
-    >
-      AI와 휴먼 터치를 조화롭게 접목한 성공 사례
-    </p>
-    <p
-      class="w-[1166.32px] h-[119.6px] absolute left-[99px] top-[11355px] text-6xl font-bold text-left text-black"
-    >
-      아모레퍼시픽 ‘청년 마음 뮤직’ 캠페인
-    </p>
-    <p class="w-[1550.67px] h-[357.77px] absolute left-[99px] top-[11475px] text-[40px] text-left">
-      <span class="w-[1550.67px] h-[357.77px] text-[40px] text-left text-black"
-        >아모레퍼시픽은 청년이 가진 고민을 담아 세상에 단 하나뿐인 ‘나만의 노래’를 AI로 만들어
-        선물합니다. </span
-      ><br /><span class="w-[1550.67px] h-[357.77px] text-[40px] text-left text-black"
-        >청년의 진솔한 이야기를 바탕으로 AI가 창작한 음원을 SNS에 공개하면서 대중들에게 투표를 받아 </span
-      ><br /><span class="w-[1550.67px] h-[357.77px] text-[40px] text-left text-black"
-        >진행하는 형식으로 진행됩니다. 청년의 마음 건강 인식 향상을 위해 진행된 이벤트로, </span
-      ><br /><span
-        class="w-[1550.67px] h-[357.77px] text-[40px] font-semibold text-left text-[#ff3b30]"
-        >“AI를 통한 작곡으로, 청년들의 꿈과 희망을 전달하다니 참신한 방법이다.” </span
-      ><br /><span
-        class="w-[1550.67px] h-[357.77px] text-[40px] font-semibold text-left text-[#ff3b30]"
-        >“사람의 감정을 울리는 예술의 영역까지 진출한 AI가 놀랍다.”</span
-      ><span class="w-[1550.67px] h-[357.77px] text-[40px] font-semibold text-left text-black">
-      </span
-      ><span class="w-[1550.67px] h-[357.77px] text-[40px] text-left text-black"
-        >등의 반응을 보였습니다.
-      </span>
-    </p>
-  </div>
-  <div
-    class="w-[1503.65px] h-[918.95px] absolute left-[107px] top-[11902px] border border-black"
-    style="filter: drop-shadow(0px 4px 4px rgba(0,0,0,0.25));"
-  >
-    <div class="w-[1503.65px] h-[918.95px] absolute left-[-1px] top-[-1px]"></div>
-  </div>
-  <div
-    class="w-[1512px] h-[781px] absolute left-[116px] top-[5360px] border border-black"
+    class="w-[1512px] h-[919px] absolute left-[-1px] top-[-1px]"
     style="box-shadow: 0px 4px 4px 0 rgba(0,0,0,0.25);"
   ></div>
+</div>
+<div
+  class="w-[1503.65px] h-[918.95px] relative border border-black"
+  style="filter: drop-shadow(0px 4px 4px rgba(0,0,0,0.25));"
+>
+  <div class="w-[1503.65px] h-[918.95px] absolute left-[-1px] top-[-1px]"></div>
+</div>
+<div class="w-[1519px] h-[570px]">
+  <p
+    class="w-[1146px] h-[106px] absolute left-[114px] top-[3394px] text-6xl font-bold text-left text-black"
+  >
+    Gatorade ‘커스텀 텀블러 디자인’
+  </p>
+  <p class="w-[1519px] h-[349px] absolute left-[114px] top-[3522px] text-[40px] text-left">
+    <span class="w-[1519px] h-[349px] text-[40px] text-left text-black"
+      >게토레이는 고객이 독특한 텀블러 디자인을 제작할 수 있는 디지털 스토어를 구축하였습니다.</span
+    ><br /><span class="w-[1519px] h-[349px] text-[40px] text-left text-black"
+      >Adobe의 ‘Firefly’ 의 API 연동을 통해 Gatorade 웹 사이트에 통합하고 확장한 케이스로,
+      소비자의</span
+    ><br /><span class="w-[1519px] h-[349px] text-[40px] text-left text-black"
+      >관심을 끌며, 10일만의 약 20만개가 넘는 텀블러 디자인이 제작됐습니다. </span
+    ><span class="w-[1519px] h-[349px] text-[40px] font-semibold text-left text-[#ff3b30]"
+      >크리에이티브 표준을 </span
+    ><br /><span class="w-[1519px] h-[349px] text-[40px] font-semibold text-left text-[#ff3b30]"
+      >유지하면서 고품질 결과덕분에 각 소비자에게 개인화된 경험 제공</span
+    ><span class="w-[1519px] h-[349px] text-[40px] text-left text-black"
+      >으로 브랜드를 한층 강화시킬 수 있는 역할을 하였습니다.
+    </span>
+  </p>
+  <p
+    class="w-[553px] h-[93px] absolute left-[114px] top-[3301px] text-[40px] font-bold text-left text-[#f00]"
+  >
+    AI를 전략적으로 활용한 성공 사례
+  </p>
+</div>
+<div class="w-[1898px] h-[501px]">
+  <p
+    class="w-[553px] h-[93px] absolute left-[114px] top-[4796px] text-[40px] font-bold text-left text-[#f00]"
+  >
+    AI를 전략적으로 활용한 성공 사례
+  </p>
+  <p class="w-[568px] h-10 absolute left-[1444px] top-[4934px] text-3xl text-left text-[#fff8f8]">
+    홈페이지에서 직접 제작한 ‘HSAD’ 텀블러 디자인
+  </p>
+  <p
+    class="w-[1068px] h-[106px] absolute left-[117px] top-[4895px] text-6xl font-bold text-left text-black"
+  >
+    맥도날드 챗 GPT 활용 옥외광고
+  </p>
+  <p class="w-[1510px] h-[274px] absolute left-[114px] top-[5023px] text-[40px] text-left">
+    <span class="w-[1510px] h-[274px] text-[40px] text-left text-black">맥도날드는</span
+    ><span class="w-[1510px] h-[274px] text-[40px] font-semibold text-left text-[#30b0c7]"> </span
+    ><span class="w-[1510px] h-[274px] text-[40px] font-semibold text-left text-[#ff3b30]"
+      >‘세상에서 가장 많은 사람들에게 사랑을 받은 버거는 빅맥 (Big Mac)’</span
+    ><span class="w-[1510px] h-[274px] text-[40px] font-semibold text-left text-black"> </span
+    ><span class="w-[1510px] h-[274px] text-[40px] text-left text-black">이라고 대답한 </span
+    ><br /><span class="w-[1510px] h-[274px] text-[40px] text-left text-black"
+      >ChatGPT의 대답을 있는 그대로 활용해 빅맥의 이미지를 떠올리는 비주얼로 옥외광고를
+      제작했습니다.답변을 통해, 1등 브랜드의 명성을 탁월하게 증명해 보였죠. 또한 AI와 맥도날드의
+      슬로건 </span
+    ><br /><span class="w-[1510px] h-[274px] text-[40px] font-semibold text-left text-[#ff3b30]"
+      >“I’m lovin’ it” 을 합쳐 만든 A. I’m lovin it</span
+    ><span class="w-[1510px] h-[274px] text-[40px] text-left text-[#30b0c7]"> </span
+    ><span class="w-[1510px] h-[274px] text-[40px] text-left text-black"
+      >이라는 재치 넘치는 카피도 한 몫 했습니다.
+    </span>
+  </p>
+</div>
+<div class="w-[1509.61px] h-[582.37px]">
+  <p
+    class="w-[662px] h-[93px] absolute left-[120px] top-[6307px] text-[40px] font-bold text-left text-[#f00]"
+  >
+    AI 대신, 인간적인 요소에 집중한 성공 사례
+  </p>
+  <p
+    class="w-[1123px] h-[99px] absolute left-[120px] top-[6396px] text-6xl font-bold text-left text-black"
+  >
+    도브의 '더 코드(The Code)' 캠페인
+  </p>
+  <p class="w-[1509.61px] h-[348.37px] absolute left-[120px] top-[6541px] text-[40px] text-left">
+    <span class="w-[1509.61px] h-[348.37px] text-[40px] text-left text-black">도브 (Dove)는</span
+    ><span class="w-[1509.61px] h-[348.37px] text-[40px] font-semibold text-left text-black"> </span
+    ><span class="w-[1509.61px] h-[348.37px] text-[40px] font-semibold text-left text-[#ff3b30]"
+      >AI가 ‘아름다움’을 묘사하는 비현실적인 방식에 맞서기 위해 광고에서 실제로 인간을 묘사할 때 AI
+      기술을 절대 사용하지 않겠다</span
+    ><span class="w-[1509.61px] h-[348.37px] text-[40px] text-left text-black"
+      >고 약속했습니다. AI 에게 ‘세계에서 가장 아름다운 여성’ </span
+    ><br /><span class="w-[1509.61px] h-[348.37px] text-[40px] text-left text-black"
+      >이미지 생성을 요청하자, 날씬한 금발의 백인 여성 이미지를 만들어낸 건데, </span
+    ><span class="w-[1509.61px] h-[348.37px] text-[40px] font-semibold text-left text-[#30b0c7]">
+    </span
+    ><span class="w-[1509.61px] h-[348.37px] text-[40px] font-semibold text-left text-[#ff3b30]"
+      >‘아름다움’ 에 대한 편협하고 좁은 고정 관념을 반영한 것</span
+    ><span class="w-[1509.61px] h-[348.37px] text-[40px] font-semibold text-left text-black">
+      이라며,</span
+    ><span class="w-[1509.61px] h-[348.37px] text-[40px] text-left text-black">
+      광고는 ‘도브는 여성의 이미지를 생성하거나 왜곡하는 AI를 </span
+    ><br /><span class="w-[1509.61px] h-[348.37px] text-[40px] text-left text-black"
+      >절대로 사용하지 않겠습니다’ 라는 메시지를 전달하는 ‘리얼 뷰티’ 광고 캠페인을 전개하고
+      있습니다.
+    </span>
+  </p>
+</div>
+<div class="w-[1523px] h-[578px]">
+  <p
+    class="w-[662px] h-[93px] absolute left-28 top-[7904px] text-[40px] font-bold text-left text-[#f00]"
+  >
+    AI 대신, 인간적인 요소에 집중한 성공 사례
+  </p>
+  <p
+    class="w-[1225.2px] h-[113.17px] absolute left-[99px] top-[7997px] text-6xl font-bold text-left text-black"
+  >
+    스톱모션 애니메이션 &#x3C;윌레스와 그로밋>
+  </p>
+  <p class="w-[1510px] h-[350px] absolute left-28 top-[8132px] text-[40px] text-left">
+    <span class="w-[1510px] h-[350px] text-[40px] text-left text-black"
+      >작년 12월에 개봉한 &#x3C;월레스와 그로밋 : 복수의 날개> 는 내용 면에서 명료하게 인공지능의
+      오남용 지적합니다. 16년만에 새로운 시즌이 나와 반가운 마음에 시청하는 분들도 있지만, 영화보다
+      더 화제를 모은 건 영화의 제작 비하인드 영상입니다. 캐릭터가 움직이는 프레임마다 점토를 새롭게
+      제작하는데, 영화를 하루에 단 6초밖에 만들지 못한다고 합니다. </span
+    ><span class="w-[1510px] h-[350px] text-[40px] font-semibold text-left text-black"
+      >이러한 후기가</span
+    ><span class="w-[1510px] h-[350px] text-[40px] font-semibold text-left text-[#ff3b30]">
+      전 세계적으로 바이럴되며, </span
+    ><br /><span class="w-[1510px] h-[350px] text-[40px] font-semibold text-left text-[#ff3b30]"
+      >‘요즘 시대에 귀한 콘텐츠’</span
+    ><span class="w-[1510px] h-[350px] text-[40px] font-semibold text-left text-black">
+      라는 평가</span
+    ><span class="w-[1510px] h-[350px] text-[40px] text-left text-black">를 받았습니다. </span>
+  </p>
+</div>
+<div class="w-[1550.67px] h-[516.1px]">
+  <p
+    class="w-[740px] h-[93px] absolute left-[99px] top-[9601px] text-[40px] font-bold text-left text-[#ff3b30]"
+  >
+    AI와 휴먼 터치를 조화롭게 접목한 성공 사례
+  </p>
+  <p
+    class="w-[1166.32px] h-[119.6px] absolute left-[99px] top-[9694px] text-6xl font-bold text-left text-black"
+  >
+    빙그레 ‘처음 입는 광복’ 캠페인
+  </p>
+  <p class="w-[1550.67px] h-[281.1px] absolute left-[99px] top-[9836px] text-[40px] text-left">
+    <span class="w-[1550.67px] h-[281.1px] text-[40px] text-left text-black"
+      >작년 8월, 빙그레는 ‘처음 입는 광복’ 이라는 캠페인 영상을 공개했습니다.. </span
+    ><br /><span class="w-[1550.67px] h-[281.1px] text-[40px] text-left text-black"
+      >죄수복을 입고 옥중에서 순국한 독립운동가의 마지막 사진을 AI로 복원하고 새롭게 지은 한복을
+      입혀</span
+    ><br /><span class="w-[1550.67px] h-[281.1px] text-[40px] text-left text-black"
+      >영웅의 모습으로 바꾼 캠페인입니다. 공개 보름 만의 350만을 넘겼고, </span
+    ><span class="w-[1550.67px] h-[281.1px] text-[40px] font-semibold text-left text-[#ff3b30]"
+      >가장 발전된 현대의 기술로</span
+    ><br /><span
+      class="w-[1550.67px] h-[281.1px] text-[40px] font-semibold text-left text-[#ff3b30]"
+      >과거와 현재를 잇고 새로운 의미와 감상을 불러일으킨 캠페인</span
+    ><span class="w-[1550.67px] h-[281.1px] text-[40px] text-left text-black">으로</span
+    ><span class="w-[1550.67px] h-[281.1px] text-[40px] font-bold text-left text-black"> </span
+    ><span class="w-[1550.67px] h-[281.1px] text-[40px] text-left text-black"
+      >칭송 받았습니다.
+    </span>
+  </p>
+</div>
+<div class="w-[1550.67px] h-[570.77px]">
+  <p
+    class="w-[740px] h-[93px] absolute left-[99px] top-[11262px] text-[40px] font-bold text-left text-[#ff3b30]"
+  >
+    AI와 휴먼 터치를 조화롭게 접목한 성공 사례
+  </p>
+  <p
+    class="w-[1166.32px] h-[119.6px] absolute left-[99px] top-[11355px] text-6xl font-bold text-left text-black"
+  >
+    아모레퍼시픽 ‘청년 마음 뮤직’ 캠페인
+  </p>
+  <p class="w-[1550.67px] h-[357.77px] absolute left-[99px] top-[11475px] text-[40px] text-left">
+    <span class="w-[1550.67px] h-[357.77px] text-[40px] text-left text-black"
+      >아모레퍼시픽은 청년이 가진 고민을 담아 세상에 단 하나뿐인 ‘나만의 노래’를 AI로 만들어
+      선물합니다. </span
+    ><br /><span class="w-[1550.67px] h-[357.77px] text-[40px] text-left text-black"
+      >청년의 진솔한 이야기를 바탕으로 AI가 창작한 음원을 SNS에 공개하면서 대중들에게 투표를 받아 </span
+    ><br /><span class="w-[1550.67px] h-[357.77px] text-[40px] text-left text-black"
+      >진행하는 형식으로 진행됩니다. 청년의 마음 건강 인식 향상을 위해 진행된 이벤트로, </span
+    ><br /><span
+      class="w-[1550.67px] h-[357.77px] text-[40px] font-semibold text-left text-[#ff3b30]"
+      >“AI를 통한 작곡으로, 청년들의 꿈과 희망을 전달하다니 참신한 방법이다.” </span
+    ><br /><span
+      class="w-[1550.67px] h-[357.77px] text-[40px] font-semibold text-left text-[#ff3b30]"
+      >“사람의 감정을 울리는 예술의 영역까지 진출한 AI가 놀랍다.”</span
+    ><span class="w-[1550.67px] h-[357.77px] text-[40px] font-semibold text-left text-black"> </span
+    ><span class="w-[1550.67px] h-[357.77px] text-[40px] text-left text-black"
+      >등의 반응을 보였습니다.
+    </span>
+  </p>
+</div>
+<svg
+  width="1520"
+  height="817"
+  viewBox="0 0 1520 817"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  class="w-[1512px] h-[809px]"
+  style="filter: drop-shadow(0px 4px 4px rgba(0,0,0,0.25));"
+  preserveAspectRatio="none"
+>
+  <g filter="url(#filter0_d_246_137)">
+    <rect x="4.5" y="0.5" width="1511" height="808" stroke="black"></rect>
+    <rect x="4" width="1512" height="809" fill="url(#pattern0_246_137)"></rect>
+  </g>
+  <defs>
+    <filter
+      id="filter0_d_246_137"
+      x="0"
+      y="0"
+      width="1520"
+      height="817"
+      filterUnits="userSpaceOnUse"
+      color-interpolation-filters="sRGB"
+    >
+      <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+      <feColorMatrix
+        in="SourceAlpha"
+        type="matrix"
+        values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+        result="hardAlpha"
+      ></feColorMatrix>
+      <feOffset dy="4"></feOffset>
+      <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+      <feComposite in2="hardAlpha" operator="out"></feComposite>
+      <feColorMatrix
+        type="matrix"
+        values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+      ></feColorMatrix>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_246_137"></feBlend>
+      <feBlend
+        mode="normal"
+        in="SourceGraphic"
+        in2="effect1_dropShadow_246_137"
+        result="shape"
+      ></feBlend>
+    </filter>
+    <pattern id="pattern0_246_137" patternContentUnits="objectBoundingBox" width="1" height="1">
+      <use
+        xlink:href="#image0_246_137"
+        transform="matrix(0.00078125 0 0 0.00146014 0 -0.0256489)"
+      ></use>
+    </pattern>
+    <image
+      id="image0_246_137"
+      width="1280"
+      height="720"
+      preserveAspectRatio="none"
+      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAYAAADPfd1WAAAAAXNSR0IArs4c6QAAIABJREFUeF7t2oGt7DgQA0Ep/6DtMASw6xL4x+JA8BLv3nu/8/C/73v6zz9M7p8mQOC1wL336f+C9+8pv3+cQFrA+5euX3gCaQHvX7p+4QmkBa4BMN2/8ATSAj4A0/ULTyAt4P1L1y88gbSA9y9dv/AE0gIGwHT9whNoC/gAbPcvPYGygPev3L7sBNoC3r92/9ITKAsYAMvty04gLuADMH4A4hMIC3j/wuWLTiAu4P2LH4D4BMICBsBw+aITqAv4AKxfgPwEugLev273khOoC3j/6hcgP4GugAGw273kBPICPgDzJwCAQFbA+5etXnACeQHvX/4EABDIChgAs9ULToCAD0A3QIBAVcD7V21ebgIEvH9ugACBqoABsNq83AQIHB+AjoAAgaqA96/avNwECHj/3AABAlUBA2C1ebkJEDAAugECBLICfgBnqxecQF7A+5c/AQAEsgIGwGz1ghMg4APQDRAgUBXw/lWbl5sAAe+fGyBAoCpgAKw2LzcBAv4C0A0QIJAV8AM4W73gBPIC3r/8CQAgkBUwAGarF5wAAR+AboAAgaqA96/avNwECHj/3AABAlUBA2C1ebkJEPAXgG6AAIGsgB/A2eoFJ5AX8P7lTwAAgayAATBbveAECPgAdAMECFQFvH/V5uUmQMD75wYIEKgKGACrzctNgIC/AHQDBAhkBfwAzlYvOIG8gPcvfwIACGQFDIDZ6gUnQMAHoBsgQKAq4P2rNi83AQLePzdAgEBVwABYbV5uAgT8BaAbIEAgK+AHcLZ6wQnkBbx/+RMAQCArYADMVi84AQI+AN0AAQJVAe9ftXm5CRDw/rkBAgSqAgbAavNyEyDgLwDdAAECWQE/gLPVC04gL+D9y58AAAJZAQNgtnrBCRDwAegGCBCoCnj/qs3LTYCA988NECBQFTAAVpuXmwABfwHoBggQyAr4AZytXnACeQHvX/4EABDIChgAs9ULToCAD0A3QIBAVcD7V21ebgIEvH9ugACBqoABsNq83AQI+AtAN0CAQFbAD+Bs9YITyAt4//InAIBAVsAAmK1ecAIEfAC6AQIEqgLev2rzchMg4P1zAwQIVAUMgNXm5SZAwF8AugECBLICfgBnqxecQF7A+5c/AQAEsgIGwGz1ghMg4APQDRAgUBXw/lWbl5sAAe+fGyBAoCpgAKw2LzcBAv4C0A0QIJAV8AM4W73gBPIC3r/8CQAgkBUwAGarF5wAAR+AboAAgaqA96/avNwECHj/3AABAlUBA2C1ebkJEPAXgG6AAIGsgB/A2eoFJ5AX8P7lTwAAgayAATBbveAECPgAdAMECFQFvH/V5uUmQMD75wYIEKgKGACrzctNgIC/AHQDBAhkBfwAzlYvOIG8gPcvfwIACGQFDIDZ6gUnQMAHoBsgQKAq4P2rNi83AQLePzdAgEBV4J5zvmp4uQkQIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNeswvJ3AAAgAElEQVQvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAMeP/boAAAgNSURBVAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gIGwHT9whMgQIAAAQIECBAgQIAAAQIECKwLGADXG5aPAAECBAgQIECAAAECBAgQIEAgLWAATNcvPAECBAgQIECAAAECBAgQIECAwLqAAXC9YfkIECBAgAABAgQIECBAgAABAgTSAgbAdP3CEyBAgAABAgQIECBAgAABAgQIrAsYANcblo8AAQIECBAgQIAAAQIECBAgQCAtYABM1y88AQIECBAgQIAAAQIECBAgQIDAuoABcL1h+QgQIECAAAECBAgQIECAAAECBNICBsB0/cITIECAAAECBAgQIECAAAECBAisCxgA1xuWjwABAgQIECBAgAABAgQIECBAIC1gAEzXLzwBAgQIECBAgAABAgQIECBAgMC6gAFwvWH5CBAgQIAAAQIECBAgQIAAAQIE0gI/WPRQPT3JwFcAAAAASUVORK5CYII="
+    ></image>
+  </defs>
+</svg>
+<p class="w-[299px] h-[35px] text-[28px] text-left text-[#8e8e93]">*클릭 시 영상이 재생됩니다.</p>
+<p class="w-[297px] h-[37px] text-[28px] text-left text-[#8e8e93]">*클릭 시 영상이 재생됩니다.</p>
+<p class="w-[293px] h-9 text-[28px] text-left text-[#8e8e93]">*클릭 시 영상이 재생됩니다.</p>
+<p class="w-[298px] h-[34px] text-[28px] text-left text-[#8e8e93]">*클릭 시 영상이 재생됩니다.</p>
+<div
+  class="w-[1512px] h-[781px] border border-black"
+  style="box-shadow: 0px 4px 4px 0 rgba(0,0,0,0.25);"
+></div>
+<div class="w-[300px] h-[34px]">
+  <p
+    class="w-[300px] h-[34px] absolute left-[724px] top-[6165px] text-[28px] text-left text-[#8e8e93]"
+  >
+    *클릭 시 영상이 재생됩니다.
+  </p>
 </div>
